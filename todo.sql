@@ -1,4 +1,4 @@
--- Adminer 4.2.4 MySQL dump
+-- Adminer MySQL 5.7 dump
 
 SET NAMES utf8;
 SET time_zone = '+00:00';
@@ -26,4 +26,4 @@ CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 
--- 2016-04-15 20:07:14
+-- 2017-11-15 20:07:14
